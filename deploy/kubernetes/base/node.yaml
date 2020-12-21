@@ -18,7 +18,7 @@ spec:
         kubernetes.io/os: linux
       hostNetwork: true
       hostAliases:
-      - ip: "192.168.86.14"
+      - ip: "192.168.62.72"
         hostnames:
         - "fs-9288cb67.efs.us-east-1.amazonaws.com"
       - ip: "172.31.37.230"
